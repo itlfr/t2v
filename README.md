@@ -36,10 +36,11 @@ Here's an organized breakdown of the project's structure:
 ├── 📄 next.config.js    # Next.js configuration
 └── 📄 README.md         # Project documentation
 
+```
 
 ---
 
-Getting Started
+**Getting Started**
 
 Prerequisites
 
