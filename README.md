@@ -55,8 +55,8 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/text-to-speech.git
-cd text-to-speech
+git clone https://github.com/itlfr/t2v.git
+cd t2v
 
 
 2. Install dependencies:
